@@ -49,7 +49,7 @@ Publications
 * <u>Erten, E.Y.</u>, Lizier, J.T., Piraveenan, M., & Prokopenko, M. (2017). Criticality and Information Dynamics in Epidemiological Models. Entropy, 19(5), 194. 
 
 
-Teach
+Teaching
 =====
 Placeholder
 
@@ -96,9 +96,6 @@ Skills
 
 
 Relevant training
-===== 
-
-Supervision
 ===== 
 
 Society memberships

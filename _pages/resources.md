@@ -6,4 +6,12 @@ redirect_from:
   - /resources.html
 ---
 
-Under construction
+## Teaching
+
+### Coding
+
+An R primer I prepared for the students who might need to refresh the basics of R can be found [here](/resources/R-primer.html).
+
+## Research
+
+## Outreach
