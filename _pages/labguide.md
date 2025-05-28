@@ -1,6 +1,6 @@
 ---
 permalink: /labguide/
-title: "Guide"
+title: "Guide to working together"
 author_profile: true
 redirect_from: 
   - /labguide.html
