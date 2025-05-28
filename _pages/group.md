@@ -6,8 +6,6 @@ redirect_from:
   - /group.html
 ---
 
-Under construction
-
 ## Current members
 
 ### E.Yagmur Erten - PI
@@ -15,6 +13,9 @@ Under construction
 ### Gaurav Athreya (external PhD student, University of Mainz, co-supervised with Prof. Hanna Kokko): Evolution of ageing
 
 ### Arturo Comin Lucio (MSc student, University of Groningen): Cultural evolution
+
+### Flora Murakeozy-Kis (BSc student, University of Groningen): Cultural evolution
+
 
 ## Past members
 

@@ -1,6 +1,6 @@
 ---
 permalink: /labguide/
-title: "Lab Guide"
+title: "Guide"
 author_profile: true
 redirect_from: 
   - /labguide.html
