@@ -1,12 +1,10 @@
 ---
 permalink: /labguide/
-title: "Guide"
+title: "Lab Guide"
 author_profile: true
 redirect_from: 
   - /labguide.html
 ---
-
-Under construction
 
 ## Join the TheoEvoBio Group!
 
@@ -18,23 +16,23 @@ We will co‑design a project that fits your interests and the skills you want t
 
 ## Meetings & communication
 
-• Frequency: Weekly or bi‑weekly meetings, with mutually agreed deadlines.
-• Preparation: Please send an agenda at least one day in advance.
-• Follow‑up: Share a concise summary of our discussion and the next steps.
-• Day‑to‑day: Slack (you’ll be added) or email. I aim to reply within one working day.
-• Feedback: For detailed feedback, notify me ahead of time so I can reserve focused hours.
+* Frequency: Weekly or bi‑weekly meetings, with mutually agreed deadlines.
+* Preparation: Please send an agenda at least one day in advance.
+* Follow‑up: Share a concise summary of our discussion and the next steps.
+* Day‑to‑day: Slack (you’ll be added) or email. I aim to reply within one working day.
+* Feedback: For detailed feedback, notify me ahead of time so I can reserve focused hours.
 
 ## Resources & funding
 
-You will have access to office space and the high performance computing cluster Hábrók (https://www.rug.nl/society-business/center-for-information-technology/research/services/hpc/habrok?lang=en). Limited funds for conference travel are available and allocation will be discussed on a case-by-case basis.
+You will have access to office space and the high performance computing cluster [Hábrók](https://www.rug.nl/society-business/center-for-information-technology/research/services/hpc/habrok?lang=en). Limited funds for conference travel are available and allocation will be discussed on a case-by-case basis.
 
 ## Professional development
 
 I am happy to support your broader academic and career goals and can:
-• Advise on study trajectories and career planning.
-• Review fellowship or grant applications.
-• Write recommendation letters.
-• Involve you in teaching (e.g. TA-ing or guest lectures), outreach, supervision, or side projects—just let me know your interests.
+* Advise on study trajectories and career planning.
+* Review fellowship or grant applications.
+* Write recommendation letters.
+* Involve you in teaching (e.g. TA-ing or guest lectures), outreach, supervision, or side projects—just let me know your interests.
 
 ## Work-life balance, well-being, and inclusivity
 
