@@ -8,6 +8,18 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+ .img-text  {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.img-text img {
+  max-width: 160px;
+  height: auto;
+  border-radius: 4px;
+}
+
 @import 
     "vendor/breakpoint/breakpoint",
 
